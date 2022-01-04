@@ -1,0 +1,13 @@
+{
+    "name": "John Doe",
+    "designation": "CEO",
+    "age": 35,
+    "location": "USA",
+    "joining_date": "2015-01-23",
+    "roles": [
+        "admin",
+        "sales",
+        "reporting",
+        "development"
+    ]
+}

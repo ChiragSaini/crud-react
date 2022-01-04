@@ -1,0 +1,11 @@
+{
+    "name": "Damin Jones",
+    "designation": "Sales Manager",
+    "age": 38,
+    "location": "EU",
+    "joining_date": "2016-02-12",
+    "roles": [
+        "sales",
+        "reporting"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Suresh Agrawal",
+    "designation": "Developer",
+    "age": 27,
+    "location": "IN",
+    "joining_date": "2020-08-29",
+    "roles": [
+        "development"
+    ]
+}

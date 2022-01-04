@@ -1,0 +1,11 @@
+{
+    "name": "San Daniel",
+    "designation": "Data Analyst",
+    "age": 28,
+    "location": "USA",
+    "joining_date": "2020-01-29",
+    "roles": [
+        "development",
+        "reporting"
+    ]
+}
