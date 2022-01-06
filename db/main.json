@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Chirag Saini 2",
+      "designation": "Tech Lead",
+      "age": 29,
+      "location": "India",
+      "joining_date": "2019-06-13",
+      "roles": "dev"
+    },
+    {
+      "name": "Sanchi Saini",
+      "age": "20",
+      "roles": "Finance, Marketing",
+      "joining_date": "2020-10-9",
+      "designation": "COO",
+      "location": "Jalandhar",
+      "id": 7
+    },
+    {
+      "name": "Bhanu",
+      "age": "23",
+      "roles": "Sales, Tech, Distrubuton",
+      "joining_date": "2020-11-11",
+      "designation": "Director",
+      "location": "India",
+      "id": 8
+    }
+  ]
+}
